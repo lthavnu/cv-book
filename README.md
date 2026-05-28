@@ -1,9 +1,6 @@
 # Thị giác máy: Từ xử lý ảnh đến học sâu
 
-Repository này cung cấp mã nguồn, dữ liệu và tài nguyên học tập đi kèm giáo trình **“Thị giác máy: Từ xử lý ảnh đến học sâu”**.
-
-Nội dung của repository bao gồm:
-
+Repository này cung cấp mã nguồn, dữ liệu và tài nguyên học tập đi kèm giáo trình **“Thị giác máy: Từ xử lý ảnh đến học sâu”** bao gồm:
 * Các ví dụ minh họa bằng Python (Notebook chạy trực tiếp trên Google Colab)
 * Ảnh, video và dữ liệu mẫu phục vụ thực hành
 * Dữ liệu và tài nguyên cho các dự án thực hành
