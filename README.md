@@ -94,5 +94,6 @@ Các notebook được thiết kế để chạy trên:
 **Lê Thanh Hà**
 * Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
 * Liên hệ: lthavnu@gmail.com
-
+* [Google Scholar](https://scholar.google.com/citations?user=-2luuyAAAAAJ&hl=en)
+* [Thông tin thêm](https://uet.vnu.edu.vn/~ltha/CV.pdf)
 ---
