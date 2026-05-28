@@ -68,14 +68,14 @@ Giáo trình được xây dựng theo hướng kết nối giữa:
 
 | Dự án   | Nội dung                             | Dữ liệu/Tài nguyên                                         |
 | ------- | ------------------------------------ | ---------------------------------------------------------- |
-| Dự án 1 | Xử lý ảnh cơ bản                     | Ảnh mẫu, histogram, ảnh nhiễu                              |
-| Dự án 2 | Tăng cường chất lượng ảnh            | Bộ dữ liệu ảnh mờ, ảnh tối, ảnh nhiễu                      |
-| Dự án 3 | Phát hiện biên và đặc trưng          | Ảnh cảnh tự nhiên, ảnh texture                             |
-| Dự án 4 | Căn chỉnh và ghép ảnh                | Ảnh panorama, ảnh stereo                                   |
-| Dự án 5 | Theo dõi đối tượng                   | Video theo dõi chuyển động                                 |
-| Dự án 6 | Phân loại ảnh bằng CNN               | CIFAR-10, Tiny ImageNet                                    |
-| Dự án 7 | Phát hiện và phân đoạn đối tượng     | Pascal VOC, MS COCO                                        |
-| Dự án 8 | Transformer và thị giác máy hiện đại | ViT, Swin Transformer, MaxViT notebook và pretrained model |
+| Dự án 1 | Xây dựng hệ thống xử lý ảnh          | link                                                       |
+| Dự án 2 | Hiệu chỉnh camera                    | link                                                       |
+| Dự án 3 | Theo dõi đối tượng trong video       | link                                                       |
+| Dự án 4 | Tạo ảnh panorama                     | link                                                       |
+| Dự án 5 | Phân loại ảnh sử dụng học máy        | link                                                       |
+| Dự án 6 | Phát hiện và nhận dạng đối tượng trong ảnh| link                                                       |
+| Dự án 7 | Khôi phục mô hình 3D                 | link                                                       |
+| Dự án 8 | Ước lượng chuyển động                | link                                                       |
 
 ---
 
