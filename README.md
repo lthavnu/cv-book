@@ -10,7 +10,7 @@ Nội dung của repository bao gồm:
 
 ---
 
-# Ví dụ minh họa bằng notebook
+# Ví dụ minh họa bằng Notebook
 
 | Mục | Tên bài | Colab |
 |---|---|---|
