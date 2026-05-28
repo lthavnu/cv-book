@@ -94,6 +94,6 @@ Các notebook được thiết kế để chạy trên:
 ---
 
 # Các cuốn sách khác của cùng tác giả
-* [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/)
+* [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/), Nhà xuất bản Thế giới năm 2023
 * Giáo trình Xử lý ảnh, Nhà xuất bản Đại học Quốc gia năm 2016
 * Giáo trình Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia năm 2025
