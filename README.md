@@ -98,7 +98,7 @@ Các notebook được thiết kế để chạy trên:
 * [Thông tin thêm](https://uet.vnu.edu.vn/~ltha/CV.pdf)
 ---
 
-# Các cuốn sách của cùng tác giả
+# Các cuốn sách khác của cùng tác giả
 * [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/)
 * Giáo trình Xử lý ảnh, Nhà xuất bản Đại học Quốc gia năm 2016
 * Giáo trình Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia năm 2025
