@@ -1,13 +1,13 @@
 # Thị giác máy: Từ xử lý ảnh đến học sâu
 
-Repository này cung cấp mã nguồn, dữ liệu và tài nguyên học tập đi kèm giáo trình **“Thị giác máy: Từ xử lý ảnh đến học sâu”** bao gồm:
-* Các ví dụ minh họa bằng Python (Notebook chạy trực tiếp trên Google Colab)
+Kho tài nguyên GitHub này cung cấp mã nguồn, dữ liệu và tài nguyên học tập đi kèm giáo trình **“Thị giác máy: Từ xử lý ảnh đến học sâu”** bao gồm:
+* Các ví dụ minh họa bằng Python (notebook chạy trực tiếp trên Google Colab)
 * Ảnh, video và dữ liệu mẫu phục vụ thực hành
 * Dữ liệu và tài nguyên cho các dự án thực hành
 
 ---
 
-# Ví dụ minh họa bằng Notebook
+# Ví dụ minh họa bằng notebook
 
 | Mục | Tên bài | Colab |
 |---|---|---|
@@ -69,18 +69,24 @@ Repository này cung cấp mã nguồn, dữ liệu và tài nguyên học tập
 
 # Yêu cầu môi trường
 
-Các notebook được thiết kế để chạy trên:
+**Lưu ý**
 
-* Google Colab
-* Python 3.10+
-* OpenCV
-* NumPy
-* Matplotlib
-* PyTorch
-* torchvision
-* timm
-* scikit-image
-* scikit-learn
+Các notebook được thiết kế ưu tiên cho môi trường Google Colab nhằm giúp người học có thể chạy trực tiếp mà không cần cấu hình phức tạp.
+Một số notebook học sâu yêu cầu kích hoạt GPU runtime trên Colab để đạt tốc độ xử lý phù hợp.
+
+Các thư viện và phiên bản khuyến nghị:
+
+Python >= 3.10
+OpenCV >= 4.8
+NumPy >= 1.24
+Matplotlib >= 3.7
+PyTorch >= 2.0
+torchvision >= 0.15
+timm >= 0.9
+scikit-image >= 0.21
+scikit-learn >= 1.3
+
+Phần lớn các thư viện trên đã được cài đặt sẵn trên Google Colab. Trong trường hợp chạy trên máy cá nhân, người học nên cài đặt đúng hoặc tương thích với các phiên bản khuyến nghị để đảm bảo notebook hoạt động ổn định.
 
 ---
 
