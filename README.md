@@ -90,9 +90,8 @@ Phần lớn các thư viện trên đã được cài đặt sẵn trên Google
 
 ---
 
-# Tác giả
+# Tác giả: Lê Thanh Hà
 
-**Lê Thanh Hà**
 * Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
 * Liên hệ: lthavnu@gmail.com
 * [Google Scholar](https://scholar.google.com/citations?user=-2luuyAAAAAJ&hl=en)
