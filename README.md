@@ -4,11 +4,9 @@ Repository này cung cấp mã nguồn, dữ liệu và tài nguyên học tập
 
 Nội dung của repository bao gồm:
 
-* Các ví dụ minh họa bằng Python/OpenCV/PyTorch
-* Notebook chạy trực tiếp trên Google Colab
+* Các ví dụ minh họa bằng Python (Notebook chạy trực tiếp trên Google Colab)
 * Ảnh, video và dữ liệu mẫu phục vụ thực hành
-* Các ví dụ trực quan hóa thuật toán thị giác máy
-* Các mô hình học sâu minh họa cho bài toán phân loại, phát hiện, phân đoạn và tái tạo ảnh
+* Dữ liệu và tài nguyên cho các dự án thực hành
 
 ---
 
