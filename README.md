@@ -56,7 +56,7 @@ Kho tài nguyên GitHub này cung cấp mã nguồn, dữ liệu và tài nguyê
 
 | Dự án   | Nội dung                             | Dữ liệu/Tài nguyên                                         |
 | ------- | ------------------------------------ | ---------------------------------------------------------- |
-| Dự án 1 | Xây dựng hệ thống xử lý ảnh          | [link] (https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p1_raw_image_pipeline)                                                       |
+| Dự án 1 | Xây dựng hệ thống xử lý ảnh          | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p1_raw_image_pipeline)                                                       |
 | Dự án 2 | Hiệu chỉnh camera                    | link                                                       |
 | Dự án 3 | Theo dõi đối tượng trong video       | link                                                       |
 | Dự án 4 | Tạo ảnh panorama                     | link                                                       |
