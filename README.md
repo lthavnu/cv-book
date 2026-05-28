@@ -76,15 +76,15 @@ Một số notebook học sâu yêu cầu kích hoạt GPU runtime trên Colab �
 
 Các thư viện và phiên bản khuyến nghị:
 
-Python >= 3.10
-OpenCV >= 4.8
-NumPy >= 1.24
-Matplotlib >= 3.7
-PyTorch >= 2.0
-torchvision >= 0.15
-timm >= 0.9
-scikit-image >= 0.21
-scikit-learn >= 1.3
+* Python >= 3.10
+* OpenCV >= 4.8
+* NumPy >= 1.24
+* Matplotlib >= 3.7
+* PyTorch >= 2.0
+* torchvision >= 0.15
+* timm >= 0.9
+* scikit-image >= 0.21
+* scikit-learn >= 1.3
 
 Phần lớn các thư viện trên đã được cài đặt sẵn trên Google Colab. Trong trường hợp chạy trên máy cá nhân, người học nên cài đặt đúng hoặc tương thích với các phiên bản khuyến nghị để đảm bảo notebook hoạt động ổn định.
 
