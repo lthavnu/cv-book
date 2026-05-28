@@ -99,6 +99,6 @@ Phần lớn các thư viện trên đã được cài đặt sẵn trên Google
 ---
 
 # Các cuốn sách khác của cùng tác giả
-* Giáo trình: Xử lý ảnh, Nhà xuất bản Đại học Quốc gia năm 2016
+* Giáo trình: Xử lý ảnh, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2016
 * Sách đại chúng: [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/), Nhà xuất bản Thế giới năm 2023
-* Giáo trình: Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia năm 2025
+* Giáo trình: Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2025
