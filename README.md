@@ -10,13 +10,6 @@ Nội dung của repository bao gồm:
 * Các ví dụ trực quan hóa thuật toán thị giác máy
 * Các mô hình học sâu minh họa cho bài toán phân loại, phát hiện, phân đoạn và tái tạo ảnh
 
-Giáo trình được xây dựng theo hướng kết nối giữa:
-
-* Xử lý ảnh số truyền thống
-* Trích rút đặc trưng thủ công
-* Các bài toán thị giác máy cổ điển
-* Học sâu và Transformer trong thị giác máy hiện đại
-
 ---
 
 # Ví dụ minh họa bằng notebook
@@ -99,6 +92,7 @@ Các notebook được thiết kế để chạy trên:
 # Tác giả
 
 **Lê Thanh Hà**
-Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
+* Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
+* Liên hệ: lthavnu@gmail.com
 
 ---
