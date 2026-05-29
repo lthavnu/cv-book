@@ -92,13 +92,13 @@ Phần lớn các thư viện trên đã được cài đặt sẵn trên Google
 
 # Tác giả: Lê Thanh Hà
 
-* Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
+* Giảng viên và nghiên cứu viên trong lĩnh vực xử lý ảnh, thị giác máy, truyền thông đa phương tiện và học máy, học sâu.
 * Liên hệ: lthavnu@gmail.com
 * [Google Scholar](https://scholar.google.com/citations?user=-2luuyAAAAAJ&hl=en)
 * [Thông tin thêm](https://uet.vnu.edu.vn/~ltha/CV.pdf)
 ---
 
 # Các cuốn sách khác của cùng tác giả
-* Giáo trình: Xử lý ảnh, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2016
+* Giáo trình: **Xử lý ảnh**, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2016
 * Sách đại chúng: [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/), Nhà xuất bản Thế giới năm 2023
-* Giáo trình: Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2025
+* Giáo trình: **Truyền thông đa phương tiện**, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2025
