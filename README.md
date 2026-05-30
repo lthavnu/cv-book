@@ -56,14 +56,14 @@ Kho tài nguyên GitHub này cung cấp mã nguồn, dữ liệu và tài nguyê
 
 | Dự án   | Nội dung                             | Dữ liệu/Tài nguyên                                         |
 | ------- | ------------------------------------ | ---------------------------------------------------------- |
-| Dự án 1 | Xây dựng hệ thống xử lý ảnh          | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p1_raw_image_pipeline)                                                       |
-| Dự án 2 | Hiệu chỉnh camera                    | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p2_camera_calibration)                                                       |
-| Dự án 3 | Theo dõi đối tượng trong video       | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p3_object_tracking)                                                       |
-| Dự án 4 | Tạo ảnh panorama                     | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p4_panorama_stitching)                                                       |
-| Dự án 5 | Phân loại ảnh sử dụng học máy        | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p5_image_classification)                                                       |
-| Dự án 6 | Phát hiện và nhận dạng đối tượng trong ảnh| [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p6_object_detection)                                                       |
-| Dự án 7 | Khôi phục mô hình 3D                 | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p7_3d_reconstruction)                                                       |
-| Dự án 8 | Ước lượng chuyển động                | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p8_motion_estimation)                                                       |
+| P1      | Xây dựng hệ thống xử lý ảnh          | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p1_raw_image_pipeline)                                                       |
+| P2      | Hiệu chỉnh camera                    | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p2_camera_calibration)                                                       |
+| P3      | Theo dõi đối tượng trong video       | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p3_object_tracking)                                                       |
+| P4      | Tạo ảnh panorama                     | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p4_panorama_stitching)                                                       |
+| P5      | Phân loại ảnh sử dụng học máy        | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p5_image_classification)                                                       |
+| P6      | Phát hiện và nhận dạng đối tượng trong ảnh| [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p6_object_detection)                                                       |
+| P7      | Khôi phục mô hình 3D                 | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p7_3d_reconstruction)                                                       |
+| P8      | Ước lượng chuyển động                | [link](https://github.com/lthavnu/cv-book/tree/934dfca10a184d7a061d705291c4a52dc94298d8/projects/p8_motion_estimation)                                                       |
 
 ---
 
@@ -92,13 +92,13 @@ Phần lớn các thư viện trên đã được cài đặt sẵn trên Google
 
 # Tác giả: Lê Thanh Hà
 
-* Giảng viên và nghiên cứu viên trong lĩnh vực thị giác máy, xử lý ảnh và học sâu.
+* Giảng viên và nghiên cứu viên trong lĩnh vực xử lý ảnh, thị giác máy, truyền thông đa phương tiện và học máy, học sâu.
 * Liên hệ: lthavnu@gmail.com
 * [Google Scholar](https://scholar.google.com/citations?user=-2luuyAAAAAJ&hl=en)
 * [Thông tin thêm](https://uet.vnu.edu.vn/~ltha/CV.pdf)
 ---
 
 # Các cuốn sách khác của cùng tác giả
-* Giáo trình: Xử lý ảnh, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2016
+* Giáo trình: **Xử lý ảnh**, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2016
 * Sách đại chúng: [Mắt nói - Những tiếng nói được hồi sinh từ ánh mắt](https://matnoi.vn/), Nhà xuất bản Thế giới năm 2023
-* Giáo trình: Truyền thông đa phương tiện, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2025
+* Giáo trình: **Truyền thông đa phương tiện**, Nhà xuất bản Đại học Quốc gia Hà Nội năm 2025
